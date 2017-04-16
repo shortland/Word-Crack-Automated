@@ -8,7 +8,6 @@
 #  => if no next duplicate then the original first letter is wrong starting place
 
 use JSON;
-use File::Slurp;
 
 my $userID = "xx";
 my $cookie = "xx";
